@@ -1,3 +1,6 @@
+# ptfe license file 
+*.rli
+
 #  Local .terraform directories
 **/.terraform/*
 
